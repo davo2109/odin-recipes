@@ -1,0 +1,50 @@
+.mainHeader {
+    color: goldenrod;
+    text-align: center;
+    font-size: 40px;
+    background-color: blueviolet;
+}
+
+.background {
+    background-color: greenyellow;
+}
+
+.indexList {
+    text-align: center;
+    margin: 30px;
+    list-style: none;
+}
+
+.indexList li {
+    color: red;
+    margin: 50px;
+    font-size: 24px;
+}
+
+.imageSize {
+    height: 360px;
+    width: auto;
+}
+
+.subHeader {
+    color: gold;
+    font-size: 26px;
+    background-color: brown;
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 32px;
+    margin-left: 0;
+    border-style: solid;
+    border-color: blue;
+}
+
+.ingredientsList li {
+    margin-bottom: 5px;
+}
+
+.stepsList li {
+    margin-bottom: 8px;
+}
